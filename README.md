@@ -1,7 +1,7 @@
 # Iluminação e Interatividade
 
 
-O trabalho desenvolvido aqui, foi fruto de um projeto luminotécnico para o curso livre de Luminoténica na Faculdade FAAP, dado pela professora [**Silvia Maria Carneiro de Campos**] (http://silviacarneiro.com.br/luminotecnica/sobre/).
+O trabalho desenvolvido aqui, foi fruto de um projeto luminotécnico para o curso livre de Luminotécnica na Faculdade FAAP, dado pela professora [**Silvia Maria Carneiro de Campos**] (http://silviacarneiro.com.br/luminotecnica/sobre/).
 
 <br/>
 
